@@ -1,0 +1,16 @@
+{
+  "name": "WNACG 紳士漫畫",
+  "sources": [
+    {
+      "id": "multi.wnacg",
+      "name": "WNACG 紳士漫畫",
+      "version": 1,
+      "iconURL": "icons/multi.wnacg-v1.png",
+      "downloadURL": "sources/multi.wnacg-v1.aix",
+      "languages": ["zh", "ja", "en"],
+      "contentRating": 2,
+      "baseURL": "https://www.wnacg.com",
+      "minAppVersion": "0.7.1"
+    }
+  ]
+}
